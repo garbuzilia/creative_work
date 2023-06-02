@@ -1,0 +1,11 @@
+debug/database.o
+debug/db_show.o
+debug/db_view.o
+debug/main.o
+debug/mainwindow.o
+debug/text_legend.o
+debug/moc_database.o
+debug/moc_db_show.o
+debug/moc_db_view.o
+debug/moc_mainwindow.o
+debug/moc_text_legend.o

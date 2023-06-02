@@ -1,0 +1,11 @@
+release/database.o
+release/db_show.o
+release/db_view.o
+release/main.o
+release/mainwindow.o
+release/text_legend.o
+release/moc_database.o
+release/moc_db_show.o
+release/moc_db_view.o
+release/moc_mainwindow.o
+release/moc_text_legend.o
