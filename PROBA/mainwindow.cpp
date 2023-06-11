@@ -383,7 +383,7 @@ void MainWindow::on_Filter_Button_clicked()
                 {
                     sql_query_command += "\"Тип преступления\" = 'Вымогательство'";
                 }
-                else if(all_indexes[i] == 2)
+                else if(all_indexes[i] == 3)
                 {
                     sql_query_command += "\"Тип преступления\" = 'Потусторонее'";
                 }
